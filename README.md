@@ -98,19 +98,17 @@ python modelo.py
 
 <p>El modelo utiliza las siguientes variables después del feature engineering:</p>
 
-<p>
-| Variable                  | Descripción                                          |
-|---------------------------|------------------------------------------------------|
-| <code>Grupo_Edad</code>              | Agrupación de edad por rango                         |
-| <code>Tipo_Via</code>                | Tipo de calle o ubicación comercial                  |
-| <code>Horario</code>                 | Periodo del día (Mañana, Tarde, Noche, etc.)        |
-| <code>Tipo_Tarjeta</code>            | Tipo estimado de tarjeta (Visa, Mastercard, etc.)   |
-| <code>Categoria_Compra</code>        | Tipo de producto o servicio                          |
-| <code>Trabajo</code>                 | Ocupación agrupada del cliente                      |
-| <code>Genero</code>                  | Género del cliente (0 = F, 1 = M)                   |
-| <code>Monto_Transaccion</code>       | Monto de la transacción                             |
-| <code>Distancia_Cliente_Negocio</code> | Distancia entre cliente y punto de venta           |
-</p>
+| Variable                    | Descripción                                          |
+|-----------------------------|------------------------------------------------------|
+| `Grupo_Edad`                | Agrupación de edad por rango                         |
+| `Tipo_Via`                  | Tipo de calle o ubicación comercial                  |
+| `Horario`                   | Periodo del día (Mañana, Tarde, Noche, etc.)        |
+| `Tipo_Tarjeta`              | Tipo estimado de tarjeta (Visa, Mastercard, etc.)   |
+| `Categoria_Compra`          | Tipo de producto o servicio                          |
+| `Trabajo`                   | Ocupación agrupada del cliente                       |
+| `Genero`                    | Género del cliente (0 = F, 1 = M)                    |
+| `Monto_Transaccion`         | Monto de la transacción                              |
+| `Distancia_Cliente_Negocio`| Distancia entre cliente y punto de venta             |
 
 <hr>
 
