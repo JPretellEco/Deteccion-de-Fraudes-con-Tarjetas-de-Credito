@@ -98,7 +98,8 @@ python modelo.py
 
 <p>El modelo utiliza las siguientes variables después del feature engineering:</p>
 
-<p>| Variable                   | Descripción                                          |
+<p>
+| Variable                  | Descripción                                          |
 |---------------------------|------------------------------------------------------|
 | <code>Grupo_Edad</code>              | Agrupación de edad por rango                         |
 | <code>Tipo_Via</code>                | Tipo de calle o ubicación comercial                  |
@@ -108,7 +109,8 @@ python modelo.py
 | <code>Trabajo</code>                 | Ocupación agrupada del cliente                      |
 | <code>Genero</code>                  | Género del cliente (0 = F, 1 = M)                   |
 | <code>Monto_Transaccion</code>       | Monto de la transacción                             |
-| <code>Distancia_Cliente_Negocio</code> | Distancia entre cliente y punto de venta           |</p>
+| <code>Distancia_Cliente_Negocio</code> | Distancia entre cliente y punto de venta           |
+</p>
 
 <hr>
 
